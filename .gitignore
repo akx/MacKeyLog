@@ -1,0 +1,4 @@
+.vscode
+*.dSYM
+keylogger
+keymap.h
